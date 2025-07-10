@@ -1,6 +1,6 @@
 # Advanced System Programming 🚀
 
-This repository contains assignments, projects, and experiments completed at the University of Windsor. It focuses on advanced Linux system-level programming concepts such as signals, process management, file I/O, socket programming, multi-threading, shell scripting, and distributed systems.
+This repository contains personal projects completed. It focuses on advanced Linux system-level programming concepts such as signals, process management, file I/O, socket programming, multi-threading, shell scripting, and distributed systems.
 
 ---
 
