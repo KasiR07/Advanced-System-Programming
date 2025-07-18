@@ -13,7 +13,6 @@ This repository contains personal projects completed. It focuses on advanced Lin
 ┣  Distributed File System (C, sockets)
 ┗ 📜README.md
 
-
 ---
 
 ## 📌 Key Topics Covered
